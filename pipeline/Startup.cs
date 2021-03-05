@@ -11,6 +11,7 @@ using System.Threading.Tasks;
 
 namespace pipeline
 {
+    //changed for testing build
     public class Startup
     {
         public Startup(IConfiguration configuration)
